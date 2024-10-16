@@ -1,0 +1,42 @@
+Create an responsive web page for an Logistics company (MOVIN)
+
+Sections
+1. Header
+Menu with website pages navigation links, locations, support and backend links
+
+2. hero banner section 
+- This section includes slider for images and video
+- Left side : Hero statement text with text reveal animation
+and subtext with text reveal animation
+- Right side logistics tracking section
+radio buttons and text field and an button for tracking (hover animation)
+
+3. buttons for services and a brief about company with company statistics.
+(number auto reveal & button hover animation)
+
+
+4. services with accordion
+Service title and subtext and
+Highlighted services with images (image with bit zoom out transition)
+
+buttons with (hover animation)
+
+5. Featured in section
+logos of news and media
+Smooth continuous slider with hover - link to that news website
+
+6. Testimonials section (optional)
+Testimonial text, profile image name, company name and company logo
+
+7. Call To action section (optional)
+CTA title, subtext And buttons, CTA Background
+
+8. News & Insights (optional)
+Over image news and insights text with category and view all link at bottom
+
+9. Footer (optional)
+Page links, locations, contact and support with social icons
+
+
+
+
